@@ -3,7 +3,7 @@ import { RichUtils } from "draft-js";
 export default () => {
   return {
     customStyleMap: {
-      HEADING1: {
+      HEADING4: {
         display: "block",
         fontSize: "1em",
         marginTop: "0.67em",
